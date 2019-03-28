@@ -114,6 +114,15 @@
 		margin-right:50px;
 		border: .5px solid #20062b;
 		}
+		
+		#midtextbox {
+		width:350px;
+		margin-left:150px;
+		background-color: #32253D;
+		text-align:center;	
+
+		}
+
 
 			
 a:link {
