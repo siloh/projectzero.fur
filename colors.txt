@@ -1,0 +1,6 @@
+#62211b deep red
+#fdd08f light tan
+#fca74a peach
+#c75113 orange
+#c3edeb	blue
+#ffebce tinted tan
