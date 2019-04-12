@@ -96,6 +96,12 @@
 	border: 8px solid #62211b;
 }
 
+	#storebox {
+		width:300px;
+		margin-left:auto;
+		margin-right:auto;
+		border: 10px solid #62211b;
+			background-color: #fca74a;}
 
 #ltextbox {
 		width:270px;
